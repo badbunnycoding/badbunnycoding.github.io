@@ -70,7 +70,7 @@ body {
 
 @media (max-width: 860px) {
   .layout { grid-template-columns: 1fr; }
-  .photo { order: -1; }
+  .photo { order: 1; }
 }
 
 
