@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://badbunnycoding.github.io/sitemap.xml
